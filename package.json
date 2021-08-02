@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "Project to test Cypress screenshot testing",
   "main": "index.js",
-  "dependencies": {
-    "cypress": "^8.1.0"
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^8.1.0",
+    "cypress-image-snapshot": "^4.0.1"
   },
-  "devDependencies": {},
   "scripts": {
     "serve": "serve public -p 8000"
   },
