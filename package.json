@@ -9,7 +9,8 @@
     "cypress-image-snapshot": "^4.0.1"
   },
   "scripts": {
-    "serve": "serve public -p 8000"
+    "serve": "serve public -p 8000",
+    "test": "cypress"
   },
   "repository": {
     "type": "git",
