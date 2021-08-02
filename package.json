@@ -1,0 +1,27 @@
+{
+  "name": "cypress_screenshot_testing_test",
+  "version": "1.0.0",
+  "description": "Project to test Cypress screenshot testing",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^8.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "serve": "serve public -p 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artemkhtrn/screenshot_testing.git"
+  },
+  "keywords": [
+    "Cypress",
+    "Screenshots"
+  ],
+  "author": "artemkhtrn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artemkhtrn/screenshot_testing/issues"
+  },
+  "homepage": "https://github.com/artemkhtrn/screenshot_testing#readme"
+}
